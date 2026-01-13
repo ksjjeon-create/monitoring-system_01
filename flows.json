@@ -60,5 +60,28 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "e2ee65ca2d10fa72",
+        "type": "join",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "mode": "auto",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "useparts": false,
+        "accumulate": "false",
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "x": 150,
+        "y": 420,
+        "wires": [
+            []
+        ]
     }
 ]
