@@ -1,7 +1,7 @@
 monitoring-system_01
 ====================
 
-신축이음관 모니터링 시스템
+신축이음관 모니터링 시스템_Docker_LoRa 통신
 
 ### About
 
